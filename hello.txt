@@ -1,7 +1,6 @@
 hello word
 hello word
 hello word
-hello word 111222333
-master
+hello word 
 
 
